@@ -1,5 +1,5 @@
 # Nobloat
-A simple example how to write Windows programs with minimal size, without linking without system libs and even C standard library.
+A simple example how to write Windows programs with minimal size, without linking without system libs and even C standard library. They can still use Windows system dlls.
 
 # How to run
 ```
